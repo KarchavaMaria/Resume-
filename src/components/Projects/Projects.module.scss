@@ -1,0 +1,87 @@
+.projects {
+  .info__title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: rgb(24, 33, 83);
+    border-bottom: 1px solid gainsboro;
+
+    @media (max-width: 460px) {
+      align-items: baseline;
+    }
+
+    p {
+      padding-bottom: 26px;
+    }
+  }
+}
+
+
+.grid {
+  margin: 25px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 24px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+  background: rgb(241, 241, 241);
+  border-radius: 8px;
+  overflow: hidden;
+  color: rgb(24, 33, 83);
+
+  .card__image img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+  }
+
+  .card__title {
+    padding: 20px 20px 0 20px;
+  }
+
+  .card__content {
+    padding: 20px;
+
+    .content__stack {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 12px;
+      list-style: none;
+      padding: 0;
+
+      li {
+        background: gainsboro;
+        padding: 4px 10px;
+        border-radius: 12px;
+        font-size: 12px;
+      }
+    }
+
+    .content__features {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 12px 0;
+      list-style: none;
+      padding: 0;
+    }
+
+    .content__links {
+      display: flex;
+      gap: 16px;
+      margin-top: 16px;
+
+      a {
+        color: #4da3ff;
+        text-decoration: none;
+      }
+    }
+  }
+}

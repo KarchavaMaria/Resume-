@@ -1,0 +1,25 @@
+.article__about {
+  background: rgb(241, 241, 241);
+
+  @media (max-width: 800px) {
+    margin: 100px auto 0 auto;
+  }
+
+  .article__about__content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 110px;
+
+    @media (max-width: 760px) {
+      padding: 100px 20px;
+    }
+
+    .article__about__text {
+      color: rgb(24, 33, 83);
+      font-size: 20px;
+      text-align: center;
+    }
+  }
+}
