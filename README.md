@@ -44,7 +44,6 @@ Email: [idkovalyova@gmail.com]
 
 Телефоy: 093 218 79 65
 
-## 💻 How to Run Locally
-1. Clone the repository:
+## 💻 Clone the repository:
 ```bash
 git clone https://github.com/KarchavaMaria/Resume-.git
