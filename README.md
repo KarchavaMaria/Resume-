@@ -44,6 +44,8 @@ Email: [idkovalyova@gmail.com]
 
 Телефоy: 093 218 79 65
 
-## 💻 Clone the repository:
+## ⚙️ Запуск проєкту
+Клонувати репозиторій:
+
 ```bash
 git clone https://github.com/KarchavaMaria/Resume-.git
