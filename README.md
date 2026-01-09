@@ -1,18 +1,53 @@
-# React + Vite
+# 📄 Резюме – Карчава Марія
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ласкаво просимо на моє онлайн-резюме! Тут ви можете ознайомитися з моїм досвідом, навичками та проектами у сфері Frontend-розробки.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 👩‍💻 Про мене
 
-## React Compiler
+Я — Frontend-розробниця, зацікавлена у створенні сучасних, адаптивних та зручних веб-додатків. Маю досвід роботи з HTML, CSS, JavaScript та React. Постійно вдосконалюю свої навички та відкриваю нові технології для створення ефективних рішень.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+---
 
-Note: This will impact Vite dev & build performances.
+## 🛠 Навички
 
-## Expanding the ESLint configuration
+Мови та технології: HTML5, CSS3, JavaScript, React
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Методології: Адаптивний та кросбраузерний дизайн, компонентний підхід
+
+---
+
+## 💼 Досвід роботи
+
+Розробка та підтримка веб-інтерфейсів
+
+Створення інтерактивних компонентів та інтеграція з API
+
+Оптимізація сайту для швидкого завантаження та кросбраузерності
+
+(Більш детально про досвід можна переглянути безпосередньо на сторінці резюме)
+
+---
+
+## 🎓 Освіта
+
+Курси та навчальні програми з Frontend-розробки
+
+Самостійне вивчення сучасних веб-технологій
+
+---
+
+## 📫 Контакти
+
+Email: [idkovalyova@gmail.com]
+
+Телефоy: 093 218 79 65
+
+---
+
+## ⚙️ Запуск проєкту
+Клонувати репозиторій:
+
+```bash
+git clone https://github.com/KarchavaMaria/Resume-.git
