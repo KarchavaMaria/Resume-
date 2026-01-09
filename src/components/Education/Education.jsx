@@ -39,7 +39,7 @@ const Education = () => {
                     <div className={styles.info__block}>
 
                         <div className={styles.info__year}>
-                            <h6>2024-2025</h6>
+                            <h6>2023-2026</h6>
                             <p>CyberBionic(FullStack Node.js)</p>
                             <button className={styles.achievement} onClick={() => {
                                 setFile(diplomaFullstack)
