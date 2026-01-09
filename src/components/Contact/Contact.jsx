@@ -19,7 +19,7 @@ const Contact = () => {
                         <div className={styles.contact__info__text}>
                             <p className={styles.info__text}>Карчава Марія</p>
                             <p className={styles.info__text}>Junior Frontend Developer / <br/>
-                                HTML-верстальщик</p>
+                                HTML Layout Specialist</p>
                         </div>
                         <div className={styles.contact__info__text}>
                             <h4>Телефон:</h4>

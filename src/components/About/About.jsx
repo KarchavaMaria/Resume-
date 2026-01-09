@@ -17,7 +17,7 @@ const About = () => {
                             <div className={styles.article__info__text}>
                                 <h2>Карчава Марія</h2>
                                 <h3>Junior Frontend Developer / <br/>
-                                    HTML-верстальщик</h3>
+                                    HTML Layout Specialist</h3>
                             </div>
                             <div className={styles.article__info__text}>
                                 <h4>Телефон:</h4>
